@@ -1,6 +1,6 @@
 # Create Live 6 MINI – Servermodifikationen
-[Beitritts-Link (Anmeldeformular)](https://docs.google.com/forms/d/e/1FAIpQLSdvN4HxVZ1-8ssSSRdusYjK6ZkD86xiI4xEtm4XIucYfBWjcw/viewform)
-[Beitritt Link 2 (discord)](https://discord.gg/U8TveSte89)
+[Whitelist Create Live 6 Mini](https://docs.google.com/forms/d/e/1FAIpQLSdvN4HxVZ1-8ssSSRdusYjK6ZkD86xiI4xEtm4XIucYfBWjcw/viewform)
+[Discord](https://discord.gg/U8TveSte89)
 
 Dieses Repository enthält alle **zusätzlichen oder geänderten Mods**, die für den reibungslosen Betrieb des **Create Live 6 MINI Servers** erforderlich sind.
 
